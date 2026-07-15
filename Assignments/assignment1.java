@@ -13,8 +13,7 @@
      Sum of even border elements = 30  (2+6+2+4+6+8+2+0)
      Sum of odd border elements = 36   (3+5+7+9+3+7+1+1)
 
-This file implements the solution, includes inline comments explaining the code,
-and runs two built-in test cases before prompting the user for interactive input.
+
 */
 
 package Assignments;
