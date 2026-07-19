@@ -9,7 +9,7 @@
    Simple menu with two sample COMPLEX numbers and interactive choices.
 */
 package Assignments;
-import Assignments.COMPLEX;
+// import Assignments.COMPLEX;
 import java.util.Scanner;
 
 public class assignment7 {
