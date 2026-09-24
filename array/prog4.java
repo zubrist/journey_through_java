@@ -1,4 +1,4 @@
-package Array;
+package array;
 
 public class prog4 {
     public static void main(String[] args) {
